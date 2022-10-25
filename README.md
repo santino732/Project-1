@@ -13,16 +13,16 @@ Programming notes:  Cite anything that's not yours.  Do not write a main method 
 Write a quick 1 page essay about the work you accomplished (The page count excludes space taken up by images).  Single space, 12 pt font, default margins, 2 line header.
 
 INCLUDES:
-MiniReport Word Doc 
-"Homework"_Histogram
-Stats Formuals Word Doc
-StatsLibrary pogram & output
-MonteHall program & output
-Birthday program & output
-Fish Market program & output
-Plotter program & csv file
-Salter program & csv file
-Smoother program & csv file
+MiniReport Word Doc / 
+"Homework"_Histogram /
+Stats Formuals Word Doc /
+StatsLibrary pogram & output /
+MonteHall program & output /
+Birthday program & output /
+Fish Market program & output /
+Plotter program & csv file /
+Salter program & csv file /
+Smoother program & csv file /
 
 
 
