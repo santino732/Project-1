@@ -22,7 +22,7 @@ Birthday program & output /
 Fish Market program & output /
 Plotter program & csv file /
 Salter program & csv file /
-Smoother program & csv file /
+Smoother program & csv file 
 
 
 
